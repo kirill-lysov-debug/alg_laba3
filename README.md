@@ -34,8 +34,8 @@ class Queue:
 
 
 **Вывод:**
-```
+
 <img width="1074" height="177" alt="image" src="https://github.com/user-attachments/assets/436d2128-4086-4214-89f3-3a3da7faf418" />
 
 
----
+
