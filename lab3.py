@@ -33,7 +33,7 @@ if __name__ == "__main__":
     task1 = Task(1, "Оформить карту", 1)
     queue.enqueue(task1)
     
-    task2 = Task(2, "Оплатить задолженность", 3)
+    task2 = Task(2, "Оплатить долг", 3)
     queue.enqueue(task2)
     
     print(f"Количество задач в очереди: {queue.size()}")
